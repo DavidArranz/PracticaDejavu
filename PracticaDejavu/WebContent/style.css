@@ -19,7 +19,41 @@ section{
 	margin-left:20%;
 	margin-right:20%;
 }
-p.c3{
+hr.negro{
+	height:2px;
+	background-color:black;
+	color:black;
+}
+hr.blanco{
+	height:3px;
+	background-color:white;
+	color:white;
+}
+span.c3{
 	font-size: 150%;
 	font-family: serif;
+	border-bottom: red 1px dashed;
+}
+span.c4{
+	background-color: white;
+	color:red;
+}
+span.c5{
+	font-weight: bold;
+	font-size:150%;
+}
+span.c6{
+	color:blue;
+}
+section h1{
+	background-color:grey;
+	color:white;
+	width:50%;
+	text-align:center;
+	position:relative;
+	left:25%;
+	font-size:200%;
+}
+strong.smallcaps{
+	font-variant: small-caps;
 }
